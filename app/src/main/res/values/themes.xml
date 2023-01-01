@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.PasswordUtil" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/lightOrange100</item>
+        <item name="android:navigationBarColor">@color/lightOrange100</item>
+
+        <!-- For Splash bottomBarNavScreen-->
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+
+    </style>
+</resources>
