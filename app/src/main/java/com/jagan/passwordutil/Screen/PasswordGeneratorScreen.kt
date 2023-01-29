@@ -109,7 +109,6 @@ fun PasswordGeneratorScreen(
                                     .makeText(context, "Successfully Copied", Toast.LENGTH_SHORT)
                                     .show()
                             }
-
                     ) {
                         Text(
                             modifier = Modifier.align(Alignment.Center),
